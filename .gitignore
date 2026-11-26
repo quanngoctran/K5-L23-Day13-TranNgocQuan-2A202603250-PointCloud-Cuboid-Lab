@@ -32,6 +32,7 @@ calib.json
 !docs/assets/coordinates.png
 !docs/assets/workflow.png
 !docs/3D_Cuboid_Annotation_Guideline.docx
+CVAT-Online_Task/
 
 # submission/: chỉ commit bảng A và phiếu tự kiểm. Các dòng ! dưới đây cho qua file D13-* của mọi mã số,
 # nên trong submission/ chỉ để file của mã bạn (check_submission.py báo LỖI nếu có mã khác).
